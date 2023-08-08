@@ -145,8 +145,8 @@ while True:
                                   delay, *algorithm_params)
                 end_time = time.time()
                 if int(delay_slider.current_value) == 0:
-                    elapsed_time.text = f"Elapsed time: {(end_time - start_time):.3f}ms"
-                    elapsed_time.target_word = f"{(end_time - start_time):.3f}ms"
+                    elapsed_time.text = f"Elapsed time: {(end_time - start_time):.3f}s"
+                    elapsed_time.target_word = f"{(end_time - start_time):.3f}s"
                 else:
                     elapsed_time.text = "REMOVE DELAY FOR ELAPSED TIME"
                 run_check(screen, HEIGHT, array)
