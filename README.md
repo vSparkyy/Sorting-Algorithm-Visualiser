@@ -40,7 +40,6 @@ https://github.com/vSparkyy/Sorting-Algorithm-Visualiser/assets/75097362/ecf51bc
 
 ## Usage
 
-    Use the arrow keys to select different sorting algorithms.
     Adjust the array size and sorting delay using sliders.
     Press "Space" to start sorting with the selected algorithm.
     Press "R" to shuffle the bars.
