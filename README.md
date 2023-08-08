@@ -30,6 +30,14 @@ https://github.com/vSparkyy/Sorting-Algorithm-Visualiser/assets/75097362/ecf51bc
 
 ```python main.py```
 
+**OR**
+
+1. Press the green '<> Code' button and download the ZIP file
+
+2. Extract the contents of the ZIP file into one folder
+
+3. Run the `main.py` script to start the application
+
 ## Usage
 
     Use the arrow keys to select different sorting algorithms.
