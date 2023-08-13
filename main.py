@@ -17,6 +17,8 @@ WIDTH = 1500
 HEIGHT = 800
 arr_size = 10
 start_sorting = False
+sorting_algorithms = None
+delay = None
 
 # Initialise pygame screen
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
