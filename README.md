@@ -54,10 +54,10 @@ To use the Sorting Algorithm Visualiser, follow these steps:
 
 ## Usage
 
-    Adjust the array size and sorting delay using sliders.
-    Press "Space" to start sorting with the selected algorithm.
-    Press "R" to shuffle the bars.
-    Press "C" to change the sorting algorithm.
+- Adjust the array size and sorting delay using sliders.
+- Press "Space" to start sorting with the selected algorithm.
+- Press "R" to shuffle the bars.
+- Press "C" to change the sorting algorithm.
 
 ## Credits
 
