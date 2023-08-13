@@ -28,7 +28,7 @@ To use the Sorting Algorithm Visualiser, follow these steps:
 
 ```pip install pygame numpy```
 
-4. Unzip the contents of the file and run the ``main.py`` script to start the application
+4. Extract the contents of the file and run the ``main.py`` script to start the application
 
 **OR**
 
