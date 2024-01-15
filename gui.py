@@ -1,7 +1,6 @@
 import os
 
 import pygame
-import numpy as np
 
 # Constants
 COLOURS = {
