@@ -124,7 +124,7 @@ gui_elements = [
     delay_slider := Slider((10, 75), 1000, extra_text="ms"),
     elapsed_time := TextBox("Elapsed time:", (10, 100)),
     bitonic_warning := TextBox("Please only choose powers of 2 or else the algorithm will not sort.",
-                               (350, 100), colour="red"),
+                               (350, 100), colour=RED),
     TextBox("R - Shuffle bars", (1125, 0), target_word="R"),
     TextBox("Space - Sort bars", (1125, 25), target_word="Space"),
     TextBox("C - Change sorting algorithm", (1125, 50), target_word="C")
